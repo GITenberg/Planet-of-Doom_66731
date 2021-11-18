@@ -1,0 +1,29 @@
+_repo: Planet-of-Doom_66731
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Granger, Darius John
+    - Thames, C. H.
+    - Chase, Adam
+    - Ridgway, Jason
+    - Lesser, Milton
+    - Wilder, Stephen
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_issued: '2021-11-14'
+identifiers:
+  gutenberg: '66731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Planet of Doom
+url: http://www.gutenberg.org/ebooks/66731
